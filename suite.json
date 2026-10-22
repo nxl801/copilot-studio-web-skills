@@ -1,0 +1,13 @@
+{
+  "name": "copilot-studio-web-suite",
+  "version": "0.1.0",
+  "docs_checked_at": "2026-10-22",
+  "status": "documentation-validated-preview",
+  "skills": [
+    "power-platform-web",
+    "copilot-studio-web",
+    "power-automate-web",
+    "power-apps-web",
+    "power-platform-release"
+  ]
+}

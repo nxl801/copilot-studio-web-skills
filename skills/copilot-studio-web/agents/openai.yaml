@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copilot Studio 网页操作"
+  short_description: "通过网页配置智能体、知识与工具，并核验测试、发布和渠道结果"
+  default_prompt: "使用 $copilot-studio-web 完成指定的网页任务，并核对目标环境、操作范围与实际结果。"

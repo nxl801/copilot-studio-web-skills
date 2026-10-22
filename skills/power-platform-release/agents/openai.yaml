@@ -1,0 +1,4 @@
+interface:
+  display_name: "Power Platform 跨环境发布"
+  short_description: "通过解决方案和已有部署管道完成跨环境交付，并验证依赖与恢复边界"
+  default_prompt: "使用 $power-platform-release 完成指定的网页任务，并核对目标环境、操作范围与实际结果。"
